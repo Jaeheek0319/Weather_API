@@ -1,0 +1,27 @@
+.location{
+    text-align: center;
+}
+
+#title{
+    text-align:center;
+    font-size: 30px;
+    color: white;
+}
+
+.search{
+    height: 100px;
+    margin: 50px;
+    width: 500px;
+}
+
+.info{
+    color:white;
+    border: 10px solid white;
+}
+
+.area{
+    color:white;
+}
+body{
+    background-color:aqua;
+}
